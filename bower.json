@@ -1,0 +1,46 @@
+{
+  "name": "swagger-tools",
+  "main": "browser/swagger-tools.js",
+  "version": "0.8.6",
+  "homepage": "https://github.com/apigee-127/swagger-tools",
+  "authors": [
+    "Jeremy Whitlock <jwhitlock@apache.org>"
+  ],
+  "description": "Various tools for using and integrating with Swagger.",
+  "keywords": [
+    "browser",
+    "swagger"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bin",
+    "bower_components",
+    "browser/*-standalone*.js",
+    "docs",
+    "examples",
+    "gulpfile.js",
+    "index.js",
+    "lib",
+    "middleware",
+    "package.json",
+    "samples",
+    "schemas",
+    "test"
+  ],
+  "dependencies": {
+    "async": "^0.9.2",
+    "json-refs": "^0.1.10",
+    "lodash": "^3.0.0",
+    "spark-md5": "^0.0.5",
+    "swagger-converter": "^0.1.0",
+    "traverse": "^0.6.6",
+    "z-schema": "^3.3.2",
+    "visionmedia-debug": "~2.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "should": "^4.6.2"
+  }
+}
