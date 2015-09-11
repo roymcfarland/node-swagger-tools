@@ -1,4 +1,4 @@
-The project provides various tools for integrating and interacting with Swagger.  This project is in its infancy but
+Various tools for integrating and interacting with Swagger.  This project is in its infancy but
 what is within the repository should be fully tested and reusable.  Please visit the [issue tracker][project-issues] to
 see what issues we are aware of and what features/enhancements we are working on.  Otherwise, feel free to review the
 [Release Notes][release-notes] to see what is new and improved.
